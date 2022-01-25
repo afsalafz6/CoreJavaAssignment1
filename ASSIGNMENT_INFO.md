@@ -1,2 +1,6 @@
-# CoreJavaAssignment1
-Assignment contains in the Folder src/packagename
+# CoreJavaAssignments
+
+
+Assignment contains in the Folder           
+#    src/AssigmentSection/assignmentquestion.java
+  
